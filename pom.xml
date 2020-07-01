@@ -40,7 +40,7 @@
         <!-- HTML解析组件 -->
         <htmlparser.version>2.1</htmlparser.version>
         <!-- 定时任务组件 -->
-        <quartz.version>2.2.2</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <!-- 微软文档解析组件 -->
         <poi.version>3.13</poi.version>
         <!-- Ant组件。使用zip部分模块 -->
