@@ -73,7 +73,7 @@
         <!-- 数据库JDBC驱动 -->
         <jdbc.driver.groupId>mysql</jdbc.driver.groupId>
         <jdbc.driver.artifactId>mysql-connector-java</jdbc.driver.artifactId>
-        <jdbc.driver.version>5.1.41</jdbc.driver.version>
+        <jdbc.driver.version>8.0.16</jdbc.driver.version>
 
         <java.version>1.7</java.version>
         <tomcat.version>7.0.73</tomcat.version>
