@@ -42,7 +42,7 @@
         <!-- 定时任务组件 -->
         <quartz.version>2.2.2</quartz.version>
         <!-- 微软文档解析组件 -->
-        <poi.version>3.13</poi.version>
+        <poi.version>4.1.2</poi.version>
         <!-- Ant组件。使用zip部分模块 -->
         <ant.version>1.9.6</ant.version>
         <!-- 社交风格时间格式化类库 -->
