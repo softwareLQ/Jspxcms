@@ -44,7 +44,7 @@
         <!-- 微软文档解析组件 -->
         <poi.version>3.13</poi.version>
         <!-- Ant组件。使用zip部分模块 -->
-        <ant.version>1.9.6</ant.version>
+        <ant.version>1.10.9</ant.version>
         <!-- 社交风格时间格式化类库 -->
         <prettytime.version>4.0.1.Final</prettytime.version>
         <!-- HTML过滤组件。防止用户提交的HTML包含有害代码 -->
