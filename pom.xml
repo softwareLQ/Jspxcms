@@ -30,7 +30,7 @@
         <!-- Apache公共网络组件 -->
         <commons-net.version>3.4</commons-net.version>
         <!-- Apache公共IO组件 -->
-        <commons-io.version>2.4</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <!-- 缓存组件 -->
         <ehcache-core.version>2.6.11</ehcache-core.version>
         <!-- 安全框架 -->
