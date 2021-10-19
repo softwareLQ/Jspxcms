@@ -48,7 +48,7 @@
         <!-- 社交风格时间格式化类库 -->
         <prettytime.version>4.0.1.Final</prettytime.version>
         <!-- HTML过滤组件。防止用户提交的HTML包含有害代码 -->
-        <owasp-java-html-sanitizer.version>20181114.1</owasp-java-html-sanitizer.version>
+        <owasp-java-html-sanitizer.version>20211018.1</owasp-java-html-sanitizer.version>
         <!-- 用户代理解析组件。分析用户浏览器类型、操作系统等信息 -->
         <UserAgentUtils.version>1.20</UserAgentUtils.version>
         <!-- 微信组件 -->
